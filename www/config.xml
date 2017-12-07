@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.devgeeks.examplehtml5audiostreaming"
+        id        = "com.kcrd.devradioapp"
         version   = "0.5.0">
     <name>Example HTML5 Audio Streaming</name>
 
@@ -9,16 +9,16 @@
         Hello World sample application that responds to the deviceready event.
     </description>
 
-    <author href="http://devgeeks.org" email="tommy@devgeeks.org">
+    <author href="http://kcrd-fm.org" email="app@kcrd-fm.org">
         Tommy-Carlos Williams
     </author>
     
-    <access origin="4zzzfm.org.au" subdomains="true" />
-    <access origin="devgeeks" subdomains="true" />
+    <access origin="kcrd-fm.org" subdomains="true" />
+    <access origin="aquinascommunications.org" subdomains="true" />
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
-    <preference name="phonegap-version" value="3.4.0" />
+    <preference name="phonegap-version" value="7.1.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
