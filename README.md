@@ -1,19 +1,10 @@
-## Example project showing audio streaming using HTML5 Audio with PhoneGap on iOS
+## Audio streaming app
 
-
-### Why is this here?
-
-I was working on a radio streaming app in PhoneGap and due to a bug in the PhoneGap iOS Media API decided to create a plugin to handle the audio streaming based on the native code I had used in the previous version of the app before discovering PhoneGap.
-
-I got 98% of the way there with my plugin, but in the end it turned out to just be a million times simpler to use html5 audio (`new Audio()`) to do the streaming in my radio app.
-
-Since shipping that app and effectively abandoning my plugin, I have received a great deal of queries about the plugin and its example project. I have been answering these by pointing people at the web page that got me started using html5 audio nin PhoneGap: http://www.joeldare.com/wiki/play_an_mp3_audio_stream_in_phonegap
-
-However, this is a bit of a cop out... so I decided to re-write my example audio streaming app using the html5 audio instead of my plugin.
-
-Here it is.
+V2.0 of the streaming app.  Very much in development
 
 ### Notes
+
+Original inspiration: http://www.joeldare.com/wiki/play_an_mp3_audio_stream_in_phonegap
 
 #### PhoneGap/Cordova
 
