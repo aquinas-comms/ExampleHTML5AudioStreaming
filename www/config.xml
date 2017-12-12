@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.kcrd.devradioapp"
         version   = "0.5.0">
-    <name>Example HTML5 Audio Streaming</name>
+    <name>KCRD Radio</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Live Streaming Radio Application for KCRD-LP 98.3FM
     </description>
 
     <author href="http://kcrd-fm.org" email="app@kcrd-fm.org">
